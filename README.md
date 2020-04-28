@@ -16,7 +16,7 @@ A web based application for Sentiment Analysis Brand Reputation using naive baye
 
 ### Usage
 1. Clone the project
-2. Import the database `bami.sql` 
+2. Import the database
 3.`cd` the project directory and `run` app.py
 4. Follow all step of the preprocessing, classification, and NBR
 
